@@ -1,0 +1,12 @@
+// Configuração
+const outerWear = "T-Shirt";
+
+function myOutfit() {
+  // Altere apenas o código abaixo desta linha
+  const outerWear= "sweater"
+  console.log(outerWear)
+  // Altere apenas o código acima desta linha
+  return outerWear;
+}
+console.log(outerWear)
+myOutfit();

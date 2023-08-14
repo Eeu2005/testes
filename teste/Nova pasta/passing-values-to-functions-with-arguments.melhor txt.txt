@@ -1,0 +1,6 @@
+function functionWithArgs(a,b){
+const c= a+b
+console.log(c)
+}
+functionWithArgs(2,3)
+functionWithArgs(7,9)
